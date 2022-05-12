@@ -1,0 +1,14 @@
+{
+    "ip": "demaster_M3.aternos.me",
+    "port": 32079,
+    "name": "AnonimusSUS",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "false",
+    "custom-message-enabled": "false",
+    "custom-message-1": "You Stupid",
+    "custom-message-2": "You LOX",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
